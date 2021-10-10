@@ -2,6 +2,41 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/imip/commitizen/compare/v1.2.0...v1.3.0) (2021-10-10)
+
+
+### Features
+
+* **account:** Create file_1633867650_10 ([2829242](https://github.com/imip/commitizen/commit/2829242e272e3e19ff20a4997eecbad77fad09da))
+* **account:** Create file_1633867650_4 ([c08498c](https://github.com/imip/commitizen/commit/c08498cde47cea095b8dba791c9573850fe0ffa7))
+* **account:** Create file_1633867650_5 ([0642529](https://github.com/imip/commitizen/commit/06425295025ceee74872fd8867b15f2e5db28e43))
+* **account:** Create file_1633867653_46 ([2ffb683](https://github.com/imip/commitizen/commit/2ffb683f20e7476d6a4eef06dccc3a5dfd984b4f))
+* **account:** Create file_1633867653_52 ([bdf2eeb](https://github.com/imip/commitizen/commit/bdf2eeb706b374fbd4c3b5c05f9534f86340c9c0))
+* **account:** Create file_1633867653_53 ([2176975](https://github.com/imip/commitizen/commit/2176975b851f6430bafcb919f5e132077527ebc1))
+* **survey:** Create file_1633867650_6 ([ea8442e](https://github.com/imip/commitizen/commit/ea8442edd29b3ab72f747a8a69455ebf1bb4eee1))
+* **survey:** Create file_1633867651_15 ([8028f4f](https://github.com/imip/commitizen/commit/8028f4f2862dcaf49f678f85365991d89a2407a0))
+* **survey:** Create file_1633867651_21 ([487594d](https://github.com/imip/commitizen/commit/487594d5addaf5c23f5d23c8f31b00d2a47aaacb))
+* **survey:** Create file_1633867652_36 ([511ded1](https://github.com/imip/commitizen/commit/511ded1317fd8e19c16a5176a4c06e740169f45a))
+* **survey:** Create file_1633867652_41 ([7747425](https://github.com/imip/commitizen/commit/77474259bcdc7984afebd82eb496b3d6c236e7ad))
+* **survey:** Create file_1633867653_48 ([5dd1d45](https://github.com/imip/commitizen/commit/5dd1d4542a57494ed81615672eecde5a8c63b85e))
+* **translation:** Create file_1633867652_34 ([cd47012](https://github.com/imip/commitizen/commit/cd47012111acf9945f36df8b21303698584dadfa))
+* **translation:** Create file_1633867653_45 ([e0fd371](https://github.com/imip/commitizen/commit/e0fd3715ec28a9decb756a76f13ee660e13952c2))
+
+
+### Bug Fixes
+
+* **account:** Create file_1633867650_9 ([925d7d2](https://github.com/imip/commitizen/commit/925d7d24adcf629324367de78a6d0aa91b681780))
+* **account:** Create file_1633867653_54 ([51039ca](https://github.com/imip/commitizen/commit/51039cabb5c9e8416dc761e3125bdd068e864a64))
+* **survey:** Create file_1633867651_16 ([44eef76](https://github.com/imip/commitizen/commit/44eef760f99f244e6521ffa16813b614255c7ab9))
+* **survey:** Create file_1633867651_28 ([a6fe091](https://github.com/imip/commitizen/commit/a6fe0919cfc3be471b100db598ac15451753990c))
+* **survey:** Create file_1633867652_40 ([2ce4fa4](https://github.com/imip/commitizen/commit/2ce4fa4be1d477ff06f53d489f400a1db465a0cf))
+* **translation:** Create file_1633867650_1 ([cacdd44](https://github.com/imip/commitizen/commit/cacdd44e01efd1a0ee1105ea7234cdf26fc9c45e))
+* **translation:** Create file_1633867650_7 ([5eeb500](https://github.com/imip/commitizen/commit/5eeb500887331afc22f90aebba1c1707cc107390))
+* **translation:** Create file_1633867650_8 ([d432b88](https://github.com/imip/commitizen/commit/d432b88bd95ca40f5c5d70a29d9998dc35c53a86))
+* **translation:** Create file_1633867651_18 ([1c8f1db](https://github.com/imip/commitizen/commit/1c8f1db7f78d7b44380e36eab07636bf324d3604))
+* **translation:** Create file_1633867651_29 ([982e1af](https://github.com/imip/commitizen/commit/982e1af20394a394c80e0d933b78bc875797cc23))
+* **translation:** Create file_1633867653_47 ([530dde5](https://github.com/imip/commitizen/commit/530dde5d5b8520a4888d4d0e835ba5bc10ab3b95))
+
 ## 1.2.0 (2021-10-10)
 
 
