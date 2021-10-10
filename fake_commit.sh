@@ -16,7 +16,7 @@ scopes[2]="translation"
 sizeTypes=${#types[@]}
 sizeScopes=${#scopes[@]}
 
-for i in {1..150}
+for i in {1..60}
 do
    indexTypes=$(($RANDOM % $sizeTypes))
    indexScopes=$(($RANDOM % $sizeScopes))
