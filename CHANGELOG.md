@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/imip/commitizen/compare/v3.0.0...v4.0.0) (2021-10-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* **toto:** WOW !
+
+### Features
+
+* **survey:** commit file ([d8f7947](https://github.com/imip/commitizen/commit/d8f7947afb987802023c3b1b745ede0f2b6d4e10))
+* **toto:** titi ([e874773](https://github.com/imip/commitizen/commit/e8747738404ca09fa3256e4a0e90144fedf58fda))
+
 ## [3.0.0](https://github.com/imip/commitizen/compare/v1.4.0...v3.0.0) (2021-10-14)
 
 
