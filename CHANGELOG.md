@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.1.0](https://github.com/imip/commitizen/compare/v4.0.0...v4.1.0) (2021-11-26)
+
+
+### Features
+
+* **toto:** BREAKING CHANGE ok ([37a696f](https://github.com/imip/commitizen/commit/37a696f840bc1d66dd306eda6599dab5476b9e49))
+
 ### [4.0.1](https://github.com/imip/commitizen/compare/v4.0.0...v4.0.1) (2021-10-14)
 
 ## [4.0.0](https://github.com/imip/commitizen/compare/v3.0.0...v4.0.0) (2021-10-14)
